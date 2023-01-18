@@ -1,0 +1,38 @@
+_repo: Wessagusset-and-Weymouth_69679
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Adams, Charles Francis
+    aliases:
+    - Adams, C. F. (Charles Francis)
+    - Adams, Charles F. (Charles Francis)
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '3239'
+    url: http://www.gutenberg.org/2009/agents/3239
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Francis_Adams_Jr.
+  - agent_name: III, Charles Francis Adams
+    gutenberg_agent_id: '55372'
+    url: http://www.gutenberg.org/2009/agents/55372
+  - agent_name: Nash, Gilbert
+    gutenberg_agent_id: '55371'
+    url: http://www.gutenberg.org/2009/agents/55371
+description: ''
+gutenberg_issued: '2023-01-01'
+identifiers:
+  gutenberg: '69679'
+language: en
+pgterms:marc904: https://archive.org/details/wessagussetweymo1904adam
+pgterms:marc905: 20220321111735adamsjr
+pgterms:marc906: '1905'
+pgterms:marc907: MA
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'Morocco: The Weymouth Historical Society,1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wessagusset and Weymouth
+url: http://www.gutenberg.org/ebooks/69679
