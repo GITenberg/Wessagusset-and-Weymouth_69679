@@ -1,5 +1,8 @@
 _repo: Wessagusset-and-Weymouth_69679
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69679-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Adams, Charles Francis
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '55371'
     url: http://www.gutenberg.org/2009/agents/55371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69679#Wessagusset-and-Weymouth
 gutenberg_issued: '2023-01-01'
 identifiers:
   gutenberg: '69679'
